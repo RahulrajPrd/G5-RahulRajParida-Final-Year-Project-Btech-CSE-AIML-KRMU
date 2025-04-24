@@ -1,0 +1,8 @@
+sklearn
+tensorflow
+keras
+torchvision
+numpy
+matplotlib
+osmnx
+contextily
