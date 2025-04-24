@@ -7,7 +7,7 @@
    - Run `pip install -r requirements.txt` in a terminal, or manually install the libraries listed in `requirements.txt`.
 3. **Download the Dataset**:
    - The datasize size is too large to upload, so i have provided the public link of google drive containing the dataset of Gurugram and california seperately and in the /data section, i have uploaded some of the same images just for references.
-   - The dataset is too large for GitHub. Download it from https://drive.google.com/drive/folders/1zWbM4kLnmiKWS5BNSb-9HKHmEbaY26e_ for california dataset and https://drive.google.com/drive/folders/1EPZAisUa1mTHzlw4hHGU9uhVi9W9MxXm?usp=sharing for gurugram dataset.
+   - The dataset is too large for GitHub. Download it from https://drive.google.com/drive/folders/1zWbM4kLnmiKWS5BNSb-9HKHmEbaY26e_?usp=sharing for california dataset and https://drive.google.com/drive/folders/1EPZAisUa1mTHzlw4hHGU9uhVi9W9MxXm?usp=sharing for gurugram dataset.
 
 ## Usage
 1. **Train the Model**:
